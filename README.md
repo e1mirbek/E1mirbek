@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Разработчик, для которого важны чистая архитектура и структурированность программного кода.
+
 <!--
 **e1mirbek/E1mirbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
