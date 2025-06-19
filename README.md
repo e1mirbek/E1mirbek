@@ -1,8 +1,3 @@
-## Общая информация
-
-Разработчик, для которого важны чистая архитектура и структурированность программного кода
-
-
 
 ## Социальные сети
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adbuma4apov) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abduma4apov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elmirgrowth@gmail.com) 
