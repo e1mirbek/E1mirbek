@@ -4,7 +4,8 @@
     <a href="https://instagram.com/adbuma4apov">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-</div>
+</div> 
+<br/>
 <div>
    <a href="https://tiktok.com/@abduma4apov">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
