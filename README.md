@@ -1,21 +1,17 @@
 
 ## Социальные сети
 <div>
-    <a href="https://instagram.com/adbuma4apov">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
+ 📩 При возникновении вопросов пишите на электронную почту или в Instagram, ссылки указаны ниже.
 </div> 
 <br/>
 <div>
-   <a href="https://tiktok.com/@abduma4apov">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+       <a href="https://instagram.com/adbuma4apov">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-</div>
-<div>
-    <a href="mailto:elmirgrowth@gmail.com">
+        <a href="mailto:elmirgrowth@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <div/>
+</div>
 
 
 ## Технический стек
