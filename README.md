@@ -5,7 +5,7 @@
 </div> 
 <br/>
 <div>
-       <a href="https://instagram.com/adbuma4apov">
+       <a href="https://www.instagram.com/abduma4apov/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
         <a href="mailto:elmirgrowth@gmail.com">
